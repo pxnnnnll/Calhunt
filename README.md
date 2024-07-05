@@ -1,3 +1,3 @@
 # Calhunt
-Calorie Calculator website 
-for educate only!!
+Calorie Calculator website (plain web)
+use php and mysql
